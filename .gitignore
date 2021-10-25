@@ -1,6 +1,10 @@
 node_modules/
+dist/
+app/
+
 gulpfile.js
 package-lock.json
 package.json
+
 .idea/
 .DS_Store
